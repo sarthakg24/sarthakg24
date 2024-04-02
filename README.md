@@ -10,7 +10,7 @@
 - 🔭 I am honing my development and problem solving skills. 
 - 👯 I’m looking to collaborate in web dev projects
 - 💬 Ask me About Web development and Web Technolgies.
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:@gmail.com)](mailto:dev.sarthakgarg@gmail.com) 
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:@gmail.com)](mailto:sarthakgarg.dev@gmail.com) 
 - ⚡ Fun fact: I love to play basketball
 
 <br>
